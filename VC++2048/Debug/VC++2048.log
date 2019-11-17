@@ -1,0 +1,3 @@
+﻿  VC++2048.cpp
+H:\VC++2048\VC++2048\VC++2048.cpp(268,13): warning C4065:  switch 语句包含“default”但是未包含“case”标签
+  VC++2048.vcxproj -> H:\VC++2048\Debug\VC++2048.exe
